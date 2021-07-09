@@ -17,3 +17,9 @@ if (navMenu.classList.contains("nav-menu_visible")){
 // fin tabulacion de botones
 
 });
+
+
+
+
+
+
